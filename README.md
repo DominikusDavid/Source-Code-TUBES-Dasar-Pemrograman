@@ -1,12 +1,12 @@
 # Source-Code-TUBES-Dasar-Pemrograman
 Source code tugas besar mata kuliah Dasar Pemrograman (EP1209-1): **Pemrosesan Data Sinyal Smart Grid** menggunakan normalisasi, median filter, dan Savitzky-Golay smoothing.
 
-👨‍💻 Kelompok:
+Kelompok:
 - Dominikus David – 18024012
 - Ammar Abdurrahim – 18024004
 - M. Elbany Adismara – 18024031
 
-✅ Fitur Utama
+Fitur Utama
 **Normalisasi Data:**
 Menggunakan metode Min-Max Scaling untuk menyamakan skala antar fitur (0–1) agar fitur dengan nilai besar tidak mendominasi.
 
